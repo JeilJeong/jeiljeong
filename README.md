@@ -33,4 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeilJeong&theme=merko)](https://github.com/jeiljeong/github-readme-stats)
   
+  
+[![Jeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeilJeong&theme=merko)](https://github.com/JeilJeong/github-readme-stats)
+  
 </div>
