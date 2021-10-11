@@ -7,4 +7,4 @@
 - This means a developer who can solve user discomfort, get high support, and further change a paradigm.
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=red"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=#021453"/>
