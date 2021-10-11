@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=console.log(jeil.getTIL())&fontSize=50&text-color=black)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=50&text=console.log(jeil.getTIL()))
 
 ## Who am I
 - I'm SW Developer in South Korea.
