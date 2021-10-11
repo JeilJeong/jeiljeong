@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=console.log(jeil.getTIL())&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=console.log(jeil.getTIL())&fontSize=50)
 
 ## Who am I
 
@@ -21,3 +21,6 @@
 
 ##### Etc
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&rotate=180)
