@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=50&text=console.log(jeil.getTIL()))
 
+
+</div>
+<div align='center'>
+  
+## Today's Visitor
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeilJeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
 ## Who am I
 - I'm SW Developer in South Korea.
 - I wanna be a user-friendly software developer who can solve the user's pain point.
@@ -24,10 +32,11 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
 </div>
-
+<div align='center'>
 ## Today's Visitor
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeilJeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</div>
 
 [![Jeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeilJeong&theme=merko)](https://github.com/JeilJeong/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeilJeong)](https://github.com/jeiljeong/github-readme-stats)
