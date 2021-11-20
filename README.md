@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=50&text=console.log(jeil.getTIL()))
-
-
-</div>
 <div align='center'>
   
 # Today's Visitor
