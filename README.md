@@ -9,7 +9,7 @@
 - I wanna be a user-friendly software developer who can solve the user's pain point.
 - This means a developer who can solve user discomfort, get high support, and further change a paradigm.
 
-<div align='left'>
+<div align='center'>
   
 <!-- language -->
 ##### Language
