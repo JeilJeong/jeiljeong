@@ -26,10 +26,4 @@
 
 ##### Etc
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeilJeong&theme=merko)](https://github.com/jeiljeong/github-readme-stats)
-  
-  
-[![Jeil's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeilJeong&theme=merko)](https://github.com/JeilJeong/github-readme-stats)
-  
 </div>
